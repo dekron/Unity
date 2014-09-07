@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\land.cs">
+    <Files>
+      <File FileName="Assets\land.cs" Line="134" Column="32" />
+      <File FileName="Assets\PlayerController.cs" Line="194" Column="66" />
+      <File FileName="Assets\enemyControl.cs" Line="21" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="G:\Unity\Unity\Assets\enemyControl.cs" line="22" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

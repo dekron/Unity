@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: bdce7fcd653591641926a341415e9ebd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - scoreDisplay: {instanceID: 0}
+  - mapAsset: {fileID: 4900000, guid: d199f1d8a00d8684b9dccd8dc7a92650, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
